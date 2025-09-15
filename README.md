@@ -35,4 +35,11 @@ This work was developed as part of my **Higher Diploma in Data Analytics for Bus
 ---
 
 ## 📂 Repository Structure
+student-performance-ml/
+ ├── data/              # (optional) dataset if public
+ ├── notebooks/         # Jupyter Notebooks
+ ├── reports/           # Project report (docx/pdf)
+ ├── README.md          # Project documentation
+ └── requirements.txt   # Dependencies (if needed)
+
 
